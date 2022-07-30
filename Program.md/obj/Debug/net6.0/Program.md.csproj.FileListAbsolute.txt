@@ -1,0 +1,15 @@
+C:\Users\Вкусвилл\Desktop\C#2\TeskControl-1-Quarter\Program.md\bin\Debug\net6.0\Program.md.exe
+C:\Users\Вкусвилл\Desktop\C#2\TeskControl-1-Quarter\Program.md\bin\Debug\net6.0\Program.md.deps.json
+C:\Users\Вкусвилл\Desktop\C#2\TeskControl-1-Quarter\Program.md\bin\Debug\net6.0\Program.md.runtimeconfig.json
+C:\Users\Вкусвилл\Desktop\C#2\TeskControl-1-Quarter\Program.md\bin\Debug\net6.0\Program.md.dll
+C:\Users\Вкусвилл\Desktop\C#2\TeskControl-1-Quarter\Program.md\bin\Debug\net6.0\Program.md.pdb
+C:\Users\Вкусвилл\Desktop\C#2\TeskControl-1-Quarter\Program.md\obj\Debug\net6.0\Program.md.csproj.AssemblyReference.cache
+C:\Users\Вкусвилл\Desktop\C#2\TeskControl-1-Quarter\Program.md\obj\Debug\net6.0\Program.md.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вкусвилл\Desktop\C#2\TeskControl-1-Quarter\Program.md\obj\Debug\net6.0\Program.md.AssemblyInfoInputs.cache
+C:\Users\Вкусвилл\Desktop\C#2\TeskControl-1-Quarter\Program.md\obj\Debug\net6.0\Program.md.AssemblyInfo.cs
+C:\Users\Вкусвилл\Desktop\C#2\TeskControl-1-Quarter\Program.md\obj\Debug\net6.0\Program.md.csproj.CoreCompileInputs.cache
+C:\Users\Вкусвилл\Desktop\C#2\TeskControl-1-Quarter\Program.md\obj\Debug\net6.0\Program.md.dll
+C:\Users\Вкусвилл\Desktop\C#2\TeskControl-1-Quarter\Program.md\obj\Debug\net6.0\refint\Program.md.dll
+C:\Users\Вкусвилл\Desktop\C#2\TeskControl-1-Quarter\Program.md\obj\Debug\net6.0\Program.md.pdb
+C:\Users\Вкусвилл\Desktop\C#2\TeskControl-1-Quarter\Program.md\obj\Debug\net6.0\Program.md.genruntimeconfig.cache
+C:\Users\Вкусвилл\Desktop\C#2\TeskControl-1-Quarter\Program.md\obj\Debug\net6.0\ref\Program.md.dll
